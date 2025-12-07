@@ -1,44 +1,49 @@
-# Hi 👋, I'm Kajal
+<div align="center">
+  <h1 align="center">Hi there, I'm Kajal! 🌸</h1>
+  <h3 align="center">Python Developer 💻 • Backend Builder 🛠️ • GenAI Enthusiast ✨</h3>
+</div>
 
-### Python Developer | Cloud & GenAI Enthusiast 🚀
-🎓 Final Year CSE Student | 📍 India
-🔀 Transitioned from Engineering Operations (Ex-Godrej) to Tech
-📈 Building scalable systems using Python, AWS, and Generative AI
-
----
-
-- 🌱 **Currently building:** An **Internship Recommendation Engine** using **AWS Bedrock (GenAI)** & **Lambda**.
-- 🔭 **Recent Work:** **FinFlow** (Full-stack Finance Tracker using Django & PostgreSQL).
-- 🛠️ **Core Stack:** Python, Django, AWS (Serverless), SQL.
-- 💬 **Ask me about:** Architecting cloud solutions and pivoting from Mechanical to CS.
-- 📫 **Email:** kajalsmishra21@gmail.com
+<p align="center">
+  <em>"Turning coffee into clean code and creative solutions."</em> ☕ ➡️ 💻
+</p>
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 👩‍💻 The Story (TL;DR)
 
-### **Backend & Cloud (My Focus)**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I’m a **Mechanical Engineer who swapped wrenches for keyboards.** 🛠️ ➡️ 💻
 
-### **Data & Frontend**
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+I spent a year managing operations at **Godrej**, but I realized I enjoyed the **logic of software** more than the mechanics of hardware. Now, I use that engineering discipline to build robust **Backend Systems** and smart **AI Tools**.
+
+I love the puzzle of making things work-whether it's an API, a database query, or a Generative AI prompt.
+
+- 🔭 **Current Obsession:** Teaching AI to read resumes! (My **AWS Bedrock Recommendation Engine**).
+- 💼 **Coolest Build:** **FinFlow** – A finance tracker I built to master **Django**.
+- ⚡ **My Vibe:** 50% Logic, 50% Creativity, and 100% Googling error messages. 🔍
 
 ---
 
-## 📊 GitHub Stats
+### 🧰 My Digital Toolbox
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalmishra8&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
 ---
 
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajalmishra8/)
+<div align="center">
+  <h3>Let's create something cool! (Or just share memes) 👾</h3>
+  
+  <a href="https://www.linkedin.com/in/kajalmishra8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Say%20Hi!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kajalsmishra21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
